@@ -12,6 +12,7 @@ DSA
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Milankumar9798/DSA_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0409-longest-palindrome](https://github.com/Milankumar9798/DSA_Solution/tree/master/0409-longest-palindrome) |
+| [0520-detect-capital](https://github.com/Milankumar9798/DSA_Solution/tree/master/0520-detect-capital) |
 ## Dynamic Programming
 |  |
 | ------- |
