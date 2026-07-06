@@ -51,6 +51,7 @@ DSA
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Milankumar9798/DSA_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Milankumar9798/DSA_Solution/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -60,4 +61,8 @@ DSA
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Milankumar9798/DSA_Solution/tree/master/0347-top-k-frequent-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Milankumar9798/DSA_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
