@@ -75,4 +75,13 @@ DSA
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Milankumar9798/DSA_Solution/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/Milankumar9798/DSA_Solution/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Milankumar9798/DSA_Solution/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Milankumar9798/DSA_Solution/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
