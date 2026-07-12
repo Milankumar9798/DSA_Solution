@@ -108,4 +108,8 @@ DSA
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Milankumar9798/DSA_Solution/tree/master/0739-daily-temperatures) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Milankumar9798/DSA_Solution/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
