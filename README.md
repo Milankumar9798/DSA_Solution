@@ -58,6 +58,7 @@ DSA
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Milankumar9798/DSA_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Milankumar9798/DSA_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0739-daily-temperatures](https://github.com/Milankumar9798/DSA_Solution/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,8 +99,13 @@ DSA
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Milankumar9798/DSA_Solution/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Milankumar9798/DSA_Solution/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Milankumar9798/DSA_Solution/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Milankumar9798/DSA_Solution/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
