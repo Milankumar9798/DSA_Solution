@@ -8,6 +8,7 @@ DSA
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Milankumar9798/DSA_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/Milankumar9798/DSA_Solution/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Milankumar9798/DSA_Solution/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@ DSA
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Milankumar9798/DSA_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0633-sum-of-square-numbers](https://github.com/Milankumar9798/DSA_Solution/tree/master/0633-sum-of-square-numbers) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +88,7 @@ DSA
 | [0326-power-of-three](https://github.com/Milankumar9798/DSA_Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Milankumar9798/DSA_Solution/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Milankumar9798/DSA_Solution/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/Milankumar9798/DSA_Solution/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Milankumar9798/DSA_Solution/tree/master/0779-k-th-symbol-in-grammar) |
 ## Bit Manipulation
 |  |
