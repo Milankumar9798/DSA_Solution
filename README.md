@@ -60,6 +60,7 @@ DSA
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Milankumar9798/DSA_Solution/tree/master/0066-plus-one) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Milankumar9798/DSA_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Milankumar9798/DSA_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Milankumar9798/DSA_Solution/tree/master/0164-maximum-gap) |
@@ -69,6 +70,7 @@ DSA
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Milankumar9798/DSA_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Milankumar9798/DSA_Solution/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -135,4 +137,16 @@ DSA
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Milankumar9798/DSA_Solution/tree/master/0164-maximum-gap) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Milankumar9798/DSA_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Milankumar9798/DSA_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Milankumar9798/DSA_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
