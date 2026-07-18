@@ -60,6 +60,7 @@ DSA
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Milankumar9798/DSA_Solution/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Milankumar9798/DSA_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Milankumar9798/DSA_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Milankumar9798/DSA_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -114,6 +115,7 @@ DSA
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Milankumar9798/DSA_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Milankumar9798/DSA_Solution/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Milankumar9798/DSA_Solution/tree/master/0739-daily-temperatures) |
 ## Design
@@ -123,6 +125,7 @@ DSA
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Milankumar9798/DSA_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Milankumar9798/DSA_Solution/tree/master/0739-daily-temperatures) |
 ## Database
 |  |
