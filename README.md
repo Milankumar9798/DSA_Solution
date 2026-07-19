@@ -18,6 +18,7 @@ DSA
 | [0409-longest-palindrome](https://github.com/Milankumar9798/DSA_Solution/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Milankumar9798/DSA_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Milankumar9798/DSA_Solution/tree/master/0520-detect-capital) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Milankumar9798/DSA_Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,6 +35,7 @@ DSA
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Milankumar9798/DSA_Solution/tree/master/0409-longest-palindrome) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Milankumar9798/DSA_Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +120,7 @@ DSA
 | [0084-largest-rectangle-in-histogram](https://github.com/Milankumar9798/DSA_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Milankumar9798/DSA_Solution/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Milankumar9798/DSA_Solution/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Milankumar9798/DSA_Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
 | ------- |
@@ -127,6 +130,7 @@ DSA
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Milankumar9798/DSA_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Milankumar9798/DSA_Solution/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Milankumar9798/DSA_Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Database
 |  |
 | ------- |
