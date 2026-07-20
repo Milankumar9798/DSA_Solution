@@ -72,6 +72,7 @@ DSA
 | [0347-top-k-frequent-elements](https://github.com/Milankumar9798/DSA_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Milankumar9798/DSA_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0739-daily-temperatures](https://github.com/Milankumar9798/DSA_Solution/tree/master/0739-daily-temperatures) |
+| [1260-shift-2d-grid](https://github.com/Milankumar9798/DSA_Solution/tree/master/1260-shift-2d-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -161,4 +162,12 @@ DSA
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Milankumar9798/DSA_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Milankumar9798/DSA_Solution/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Milankumar9798/DSA_Solution/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
