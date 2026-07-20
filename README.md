@@ -140,6 +140,7 @@ DSA
 | ------- |
 | [0175-combine-two-tables](https://github.com/Milankumar9798/DSA_Solution/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Milankumar9798/DSA_Solution/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/Milankumar9798/DSA_Solution/tree/master/0177-nth-highest-salary) |
 ## Memoization
 |  |
 | ------- |
