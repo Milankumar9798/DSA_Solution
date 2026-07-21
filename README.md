@@ -20,6 +20,7 @@ DSA
 | [0451-sort-characters-by-frequency](https://github.com/Milankumar9798/DSA_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Milankumar9798/DSA_Solution/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Milankumar9798/DSA_Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Milankumar9798/DSA_Solution/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,4 +171,8 @@ DSA
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Milankumar9798/DSA_Solution/tree/master/1260-shift-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Milankumar9798/DSA_Solution/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
