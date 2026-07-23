@@ -76,6 +76,7 @@ DSA
 | [0739-daily-temperatures](https://github.com/Milankumar9798/DSA_Solution/tree/master/0739-daily-temperatures) |
 | [1260-shift-2d-grid](https://github.com/Milankumar9798/DSA_Solution/tree/master/1260-shift-2d-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Milankumar9798/DSA_Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,12 +103,14 @@ DSA
 | [0509-fibonacci-number](https://github.com/Milankumar9798/DSA_Solution/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Milankumar9798/DSA_Solution/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Milankumar9798/DSA_Solution/tree/master/0779-k-th-symbol-in-grammar) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Milankumar9798/DSA_Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Milankumar9798/DSA_Solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Milankumar9798/DSA_Solution/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Milankumar9798/DSA_Solution/tree/master/0779-k-th-symbol-in-grammar) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Milankumar9798/DSA_Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Recursion
 |  |
 | ------- |
