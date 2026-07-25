@@ -46,6 +46,7 @@ DSA
 | [0164-maximum-gap](https://github.com/Milankumar9798/DSA_Solution/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/Milankumar9798/DSA_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Milankumar9798/DSA_Solution/tree/master/0451-sort-characters-by-frequency) |
+| [3536-maximum-product-of-two-digits](https://github.com/Milankumar9798/DSA_Solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -106,6 +107,7 @@ DSA
 | [0779-k-th-symbol-in-grammar](https://github.com/Milankumar9798/DSA_Solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Milankumar9798/DSA_Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Milankumar9798/DSA_Solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
