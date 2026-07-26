@@ -46,6 +46,7 @@ DSA
 | [0164-maximum-gap](https://github.com/Milankumar9798/DSA_Solution/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/Milankumar9798/DSA_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Milankumar9798/DSA_Solution/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Milankumar9798/DSA_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Milankumar9798/DSA_Solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -74,6 +75,7 @@ DSA
 | [0164-maximum-gap](https://github.com/Milankumar9798/DSA_Solution/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/Milankumar9798/DSA_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Milankumar9798/DSA_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Milankumar9798/DSA_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Milankumar9798/DSA_Solution/tree/master/0739-daily-temperatures) |
 | [1260-shift-2d-grid](https://github.com/Milankumar9798/DSA_Solution/tree/master/1260-shift-2d-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -103,6 +105,7 @@ DSA
 | [0326-power-of-three](https://github.com/Milankumar9798/DSA_Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Milankumar9798/DSA_Solution/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Milankumar9798/DSA_Solution/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Milankumar9798/DSA_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Milankumar9798/DSA_Solution/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Milankumar9798/DSA_Solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Milankumar9798/DSA_Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
