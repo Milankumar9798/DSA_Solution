@@ -32,6 +32,7 @@ DSA
 | [0005-longest-palindromic-substring](https://github.com/Milankumar9798/DSA_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0486-predict-the-winner](https://github.com/Milankumar9798/DSA_Solution/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Milankumar9798/DSA_Solution/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Milankumar9798/DSA_Solution/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ DSA
 | [0486-predict-the-winner](https://github.com/Milankumar9798/DSA_Solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Milankumar9798/DSA_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Milankumar9798/DSA_Solution/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/Milankumar9798/DSA_Solution/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Milankumar9798/DSA_Solution/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Milankumar9798/DSA_Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -126,6 +128,7 @@ DSA
 | [0628-maximum-product-of-three-numbers](https://github.com/Milankumar9798/DSA_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Milankumar9798/DSA_Solution/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Milankumar9798/DSA_Solution/tree/master/0779-k-th-symbol-in-grammar) |
+| [0877-stone-game](https://github.com/Milankumar9798/DSA_Solution/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Milankumar9798/DSA_Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Milankumar9798/DSA_Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -227,4 +230,5 @@ DSA
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Milankumar9798/DSA_Solution/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Milankumar9798/DSA_Solution/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
