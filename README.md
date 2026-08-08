@@ -9,6 +9,7 @@ DSA
 | [0005-longest-palindromic-substring](https://github.com/Milankumar9798/DSA_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/Milankumar9798/DSA_Solution/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Milankumar9798/DSA_Solution/tree/master/0633-sum-of-square-numbers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Milankumar9798/DSA_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ DSA
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Milankumar9798/DSA_Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Milankumar9798/DSA_Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Milankumar9798/DSA_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Milankumar9798/DSA_Solution/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -35,6 +37,7 @@ DSA
 | [0509-fibonacci-number](https://github.com/Milankumar9798/DSA_Solution/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Milankumar9798/DSA_Solution/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Milankumar9798/DSA_Solution/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Milankumar9798/DSA_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +56,7 @@ DSA
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Milankumar9798/DSA_Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Milankumar9798/DSA_Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Milankumar9798/DSA_Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
