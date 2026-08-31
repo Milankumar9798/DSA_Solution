@@ -227,6 +227,7 @@ DSA
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Milankumar9798/DSA_Solution/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/Milankumar9798/DSA_Solution/tree/master/0705-design-hashset) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Milankumar9798/DSA_Solution/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Stack
 |  |
 | ------- |
