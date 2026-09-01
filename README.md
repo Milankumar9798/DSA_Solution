@@ -53,6 +53,7 @@ DSA
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Milankumar9798/DSA_Solution/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Milankumar9798/DSA_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Milankumar9798/DSA_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/Milankumar9798/DSA_Solution/tree/master/0409-longest-palindrome) |
@@ -88,6 +89,7 @@ DSA
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Milankumar9798/DSA_Solution/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/Milankumar9798/DSA_Solution/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Milankumar9798/DSA_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Milankumar9798/DSA_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Milankumar9798/DSA_Solution/tree/master/0451-sort-characters-by-frequency) |
@@ -128,6 +130,7 @@ DSA
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Milankumar9798/DSA_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Milankumar9798/DSA_Solution/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/Milankumar9798/DSA_Solution/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Milankumar9798/DSA_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Milankumar9798/DSA_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Milankumar9798/DSA_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
