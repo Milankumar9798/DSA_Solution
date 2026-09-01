@@ -127,6 +127,7 @@ DSA
 | [0066-plus-one](https://github.com/Milankumar9798/DSA_Solution/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Milankumar9798/DSA_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Milankumar9798/DSA_Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/Milankumar9798/DSA_Solution/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Milankumar9798/DSA_Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Milankumar9798/DSA_Solution/tree/master/0164-maximum-gap) |
@@ -209,6 +210,7 @@ DSA
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Milankumar9798/DSA_Solution/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Milankumar9798/DSA_Solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Milankumar9798/DSA_Solution/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Milankumar9798/DSA_Solution/tree/master/0779-k-th-symbol-in-grammar) |
