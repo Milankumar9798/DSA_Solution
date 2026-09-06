@@ -17,6 +17,7 @@ DSA
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Milankumar9798/DSA_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/Milankumar9798/DSA_Solution/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/Milankumar9798/DSA_Solution/tree/master/0115-distinct-subsequences) |
 | [0316-remove-duplicate-letters](https://github.com/Milankumar9798/DSA_Solution/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Milankumar9798/DSA_Solution/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Milankumar9798/DSA_Solution/tree/master/0409-longest-palindrome) |
@@ -41,6 +42,7 @@ DSA
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Milankumar9798/DSA_Solution/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/Milankumar9798/DSA_Solution/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Milankumar9798/DSA_Solution/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Milankumar9798/DSA_Solution/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Milankumar9798/DSA_Solution/tree/master/0877-stone-game) |
