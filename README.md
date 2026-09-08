@@ -214,6 +214,7 @@ DSA
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Milankumar9798/DSA_Solution/tree/master/3536-maximum-product-of-two-digits) |
+| [3870-count-commas-in-range](https://github.com/Milankumar9798/DSA_Solution/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
