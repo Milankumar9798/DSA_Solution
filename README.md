@@ -177,6 +177,7 @@ DSA
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Milankumar9798/DSA_Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Milankumar9798/DSA_Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Milankumar9798/DSA_Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Milankumar9798/DSA_Solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -233,6 +234,7 @@ DSA
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Milankumar9798/DSA_Solution/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Milankumar9798/DSA_Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/Milankumar9798/DSA_Solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3871-count-commas-in-range-ii) |
@@ -344,6 +346,7 @@ DSA
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Milankumar9798/DSA_Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3525-find-x-value-of-array-ii) |
 ## Counting Sort
 |  |
 | ------- |
