@@ -19,6 +19,7 @@ DSA
 | [0005-longest-palindromic-substring](https://github.com/Milankumar9798/DSA_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Milankumar9798/DSA_Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Milankumar9798/DSA_Solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Milankumar9798/DSA_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Milankumar9798/DSA_Solution/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Milankumar9798/DSA_Solution/tree/master/0115-distinct-subsequences) |
 | [0316-remove-duplicate-letters](https://github.com/Milankumar9798/DSA_Solution/tree/master/0316-remove-duplicate-letters) |
@@ -54,6 +55,7 @@ DSA
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Milankumar9798/DSA_Solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Milankumar9798/DSA_Solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Milankumar9798/DSA_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Milankumar9798/DSA_Solution/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Milankumar9798/DSA_Solution/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Milankumar9798/DSA_Solution/tree/master/0509-fibonacci-number) |
@@ -291,6 +293,7 @@ DSA
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Milankumar9798/DSA_Solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Milankumar9798/DSA_Solution/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Milankumar9798/DSA_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Milankumar9798/DSA_Solution/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Milankumar9798/DSA_Solution/tree/master/0316-remove-duplicate-letters) |
@@ -477,6 +480,7 @@ DSA
 | ------- |
 | [0020-valid-parentheses](https://github.com/Milankumar9798/DSA_Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Milankumar9798/DSA_Solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Milankumar9798/DSA_Solution/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Milankumar9798/DSA_Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Milankumar9798/DSA_Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Milankumar9798/DSA_Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
