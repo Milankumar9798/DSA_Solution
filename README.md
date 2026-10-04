@@ -27,6 +27,7 @@ DSA
 | [0409-longest-palindrome](https://github.com/Milankumar9798/DSA_Solution/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Milankumar9798/DSA_Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Milankumar9798/DSA_Solution/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/Milankumar9798/DSA_Solution/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Milankumar9798/DSA_Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/1096-brace-expansion-ii) |
@@ -59,6 +60,7 @@ DSA
 | [0115-distinct-subsequences](https://github.com/Milankumar9798/DSA_Solution/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Milankumar9798/DSA_Solution/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Milankumar9798/DSA_Solution/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Milankumar9798/DSA_Solution/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Milankumar9798/DSA_Solution/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/1140-stone-game-ii) |
@@ -102,6 +104,7 @@ DSA
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Milankumar9798/DSA_Solution/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Milankumar9798/DSA_Solution/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/Milankumar9798/DSA_Solution/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Milankumar9798/DSA_Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Milankumar9798/DSA_Solution/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Milankumar9798/DSA_Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -297,6 +300,7 @@ DSA
 | [0084-largest-rectangle-in-histogram](https://github.com/Milankumar9798/DSA_Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Milankumar9798/DSA_Solution/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Milankumar9798/DSA_Solution/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/Milankumar9798/DSA_Solution/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Milankumar9798/DSA_Solution/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Milankumar9798/DSA_Solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/1096-brace-expansion-ii) |
@@ -481,6 +485,7 @@ DSA
 | [0020-valid-parentheses](https://github.com/Milankumar9798/DSA_Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Milankumar9798/DSA_Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Milankumar9798/DSA_Solution/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Milankumar9798/DSA_Solution/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Milankumar9798/DSA_Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Milankumar9798/DSA_Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Milankumar9798/DSA_Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
