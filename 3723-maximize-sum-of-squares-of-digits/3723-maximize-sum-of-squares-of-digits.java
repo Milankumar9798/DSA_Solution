@@ -9,6 +9,9 @@ class Solution {
             ans.append(digit);
             sum -= digit;
         }
-        return sum==0 ? ans.toString() : "";
+        if(sum==0){
+            return ans.toString();
+        }
+        return "";
     }
 }
