@@ -196,6 +196,7 @@ DSA
 | [0835-image-overlap](https://github.com/Milankumar9798/DSA_Solution/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Milankumar9798/DSA_Solution/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Milankumar9798/DSA_Solution/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Milankumar9798/DSA_Solution/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/Milankumar9798/DSA_Solution/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Milankumar9798/DSA_Solution/tree/master/1406-stone-game-iii) |
@@ -399,6 +400,7 @@ DSA
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Milankumar9798/DSA_Solution/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Milankumar9798/DSA_Solution/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Milankumar9798/DSA_Solution/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Milankumar9798/DSA_Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Milankumar9798/DSA_Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -468,12 +470,14 @@ DSA
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Milankumar9798/DSA_Solution/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Milankumar9798/DSA_Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Milankumar9798/DSA_Solution/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Milankumar9798/DSA_Solution/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Milankumar9798/DSA_Solution/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Milankumar9798/DSA_Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -551,6 +555,7 @@ DSA
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Milankumar9798/DSA_Solution/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Milankumar9798/DSA_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
