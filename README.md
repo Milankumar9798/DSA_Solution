@@ -192,6 +192,7 @@ DSA
 | [0347-top-k-frequent-elements](https://github.com/Milankumar9798/DSA_Solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Milankumar9798/DSA_Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Milankumar9798/DSA_Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Milankumar9798/DSA_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Milankumar9798/DSA_Solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Milankumar9798/DSA_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/Milankumar9798/DSA_Solution/tree/master/0705-design-hashset) |
@@ -275,6 +276,7 @@ DSA
 | [0231-power-of-two](https://github.com/Milankumar9798/DSA_Solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Milankumar9798/DSA_Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Milankumar9798/DSA_Solution/tree/master/0342-power-of-four) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Milankumar9798/DSA_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Milankumar9798/DSA_Solution/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Milankumar9798/DSA_Solution/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Milankumar9798/DSA_Solution/tree/master/0628-maximum-product-of-three-numbers) |
