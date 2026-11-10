@@ -83,6 +83,7 @@ DSA
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Milankumar9798/DSA_Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Milankumar9798/DSA_Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Milankumar9798/DSA_Solution/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Milankumar9798/DSA_Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -248,6 +249,7 @@ DSA
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Milankumar9798/DSA_Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Milankumar9798/DSA_Solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Milankumar9798/DSA_Solution/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Milankumar9798/DSA_Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Milankumar9798/DSA_Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Milankumar9798/DSA_Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
