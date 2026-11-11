@@ -139,6 +139,7 @@ DSA
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Milankumar9798/DSA_Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Milankumar9798/DSA_Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Milankumar9798/DSA_Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Milankumar9798/DSA_Solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
@@ -323,6 +324,7 @@ DSA
 | [3536-maximum-product-of-two-digits](https://github.com/Milankumar9798/DSA_Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Milankumar9798/DSA_Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Milankumar9798/DSA_Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Milankumar9798/DSA_Solution/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/Milankumar9798/DSA_Solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Milankumar9798/DSA_Solution/tree/master/3876-construct-uniform-parity-array-ii) |
